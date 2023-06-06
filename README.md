@@ -10,8 +10,6 @@ Um site simples de uma barbearia onde o usuário pode ver as pricipais informaç
 ## Funcionalidades do Projeto
 - `Funcionalidade 1`: Formulário para contato.                        
 
-https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/113717317/1d31074b-bc19-4fc3-bbfc-f6139a5b08d3
-
 ## Acesso ao Projeto
 Acesse o projeto clicando nesse link:
 https://fernandesmelo.github.io/Site-Barbearia-Jonys/
