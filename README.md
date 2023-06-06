@@ -5,7 +5,7 @@
 Um site simples de uma barbearia onde o usuário pode ver as pricipais informações sobre o estabelecimento.
 
 ## Status do Projeto
-> :white_check_mark: Projeto Finalizado :white_check_mark:
+🚧 Projeto em Construção 🚧
 
 ## Funcionalidades do Projeto
 - `Funcionalidade 1`: Formulário para contato.                        
