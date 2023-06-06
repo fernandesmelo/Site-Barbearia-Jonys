@@ -14,7 +14,7 @@ https://github.com/fernandesmelo/Challenge-Decodificador-de-Texto/assets/1137173
 
 ## Acesso ao Projeto
 Acesse o projeto clicando nesse link:
-https://fernandesmelo.github.io/Challenge-Decodificador-de-Texto/
+https://fernandesmelo.github.io/Site-Barbearia-Jonys/
 
 ## Tecnologias Usadas:
 <div style="display: inline-block"><br/>
