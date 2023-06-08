@@ -2,7 +2,7 @@
 ![logo-branco](https://github.com/fernandesmelo/Site-Barbearia-Jonys/assets/113717317/859b4457-1ccd-4b71-aa7a-377594bc9147)
 
 ##  Descrição do Projeto
-Um site simples de uma barbearia onde o usuário pode ver as pricipais informações sobre o estabelecimento.
+Projeto desenvolvido através dos cursos de HTML5 e CSS3 que fiz na Alura. Na qual criamos um site simples de uma barbearia onde o usuário pode ver as pricipais informações sobre o estabelecimento e entrar em contato com o mesmo através de um formulário. Tomei a liberdade de mudar algumas coisas na qual já tinha conhecimento deixando o site mais personalizado. 
 
 ## Status do Projeto
 🚧 Projeto em Construção 🚧
