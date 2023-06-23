@@ -112,6 +112,10 @@ main {
 	margin: 0 auto; 
 }
 
+.imagens {
+	width: 500px;
+}
+
 form {
 	margin: 40px 0; 
 }
@@ -170,6 +174,17 @@ td, th {
 	padding: 8px 20px;  
 }
 
+.conteudo-principal .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.imagem-contato {
+	width: 400px;
+	height: 700px;
+}
+
 footer {
 	text-align: center;
 	background: url("Imagens/bg.jpg");
@@ -184,12 +199,10 @@ footer {
 
 .social-media {
 	width: 40px;
-	
 }
 
 .redes-sociais {
     display: flex;
     margin-left: 640px;
 	margin-top: 40px;
-
 }
