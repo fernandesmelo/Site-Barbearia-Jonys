@@ -5,7 +5,7 @@
 Projeto desenvolvido através dos cursos de HTML5 e CSS3 que fiz na Alura. Na qual criamos um site simples de uma barbearia onde o usuário pode ver as pricipais informações sobre o estabelecimento e entrar em contato com o mesmo através de um formulário. Tomei a liberdade de mudar algumas coisas na qual já tinha conhecimento deixando o site mais personalizado. 
 
 ## Status do Projeto
-:white_check_mark: Projeto em Construção :white_check_mark:
+:white_check_mark: Projeto Finalizado :white_check_mark:
 
 ## Funcionalidades do Projeto
 - `Funcionalidade 1`: Formulário para contato.                        
